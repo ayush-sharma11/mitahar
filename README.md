@@ -2,6 +2,6 @@
 
 ## Technologies used
 
-python, jupyter notebook
+python and jupyter notebook
 
 This project was built for a hackthon
