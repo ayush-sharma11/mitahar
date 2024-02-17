@@ -1,6 +1,6 @@
-# Mitahar - A nutrition based diet
+# Mitahar - A nutrition based planner
 
-### Technologies used
+## Technologies used
 
 python, jupyter notebook
 
