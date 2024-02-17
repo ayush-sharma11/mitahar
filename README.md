@@ -2,6 +2,6 @@
 
 ## Technologies used
 
-python, jupyter notebook
+python, jupyter notebook and docker-compose
 
 This project was built for a hackthon

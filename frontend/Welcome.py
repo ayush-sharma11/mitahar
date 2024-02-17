@@ -1,7 +1,5 @@
 import streamlit as st
 
-
-
 st.set_page_config(
     page_title="Mitahar",
     page_icon="👋",
